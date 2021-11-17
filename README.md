@@ -5,7 +5,7 @@ As someone who is always passionate for learning more about tech and life. Fares
 
   * 💬 &nbsp; People ask him about `Kubernetes , Helm , Terraform , Docker , Etcd , Linux , Node / Express, VueJs, MongoDB, Java, PYTHON, etc`.
   * 📖 &nbsp; Learning about `Aws , systems architecture`
-  * 🤝 &nbsp; Contribute to Open Source Projects
+  * 🚨 &nbsp; for the last two years most of of my work was with companies . I'm sorry , I cannot share it. 🥺 
 
 <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
  <br/> 
