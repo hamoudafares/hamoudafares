@@ -13,4 +13,4 @@ As someone who is always passionate for learning more about tech and life. Fares
 <br />
 📫 Reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nour-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamouda-fares/) [![Mail Badge](https://img.shields.io/badge/-nourkaroui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hamoudaferes@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Fares-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamouda-fares/) [![Mail Badge](https://img.shields.io/badge/-fareshamouda-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hamoudaferes@gmail.com)
