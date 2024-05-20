@@ -1,8 +1,11 @@
 ### Hi there 👋
 # Let's talk about FaresHamouda
-🚨 &nbsp; For the last two years most of of my work was with companies . I'm sorry , I cannot share it. 🥺
 
-As someone who is always passionate for learning more about tech and life. Fares Hamouda grew up admiring systems architecture and highly available designs . From those humble beginnings, he has evolved into a Cloud Infrastracture/ Devops Engineer who loves working with cutting edge tools and technologies, experimenting design×development and keen to share his experience with people around the world. He, like any developer who has burnt the midnight oil, knows how to make a mean cup of coffee ☕️ ! 
+My academic journey began with a comprehensive bachelor's degree in Tunisia, which included a competitive end-of-studies internship facilitated by the prestigious Mitacs Globalink program. This internship at Polytechnique Montréal focused on edge computing and provided invaluable hands-on experience in the field.
+
+Following this accomplishment, I was honored to receive a Mitacs fellowship and earn a fully funded scholarship at York University, where I am currently pursuing my Master's in Computer Engineering. Alongside my studies, I serve as a Teaching Assistant and collaborate on research projects with IBM, contributing to the development of a data migration framework that was recently published in ICPE 2024.
+
+I am on track to complete my studies by summer 2024 and am eager to leverage my skills and experiences in the field post-graduation.
 
   * 💬 &nbsp; People ask him about `Kubernetes , Helm , Terraform , Docker , Etcd , Linux , Node / Express, VueJs, MongoDB, Java, PYTHON, etc`.
   * 📖 &nbsp; Learning about `Aws , systems architecture`
